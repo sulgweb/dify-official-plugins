@@ -1,0 +1,16 @@
+- cohere/cohere-command-a
+- cohere/Cohere-command-r-08-2024
+- cohere/Cohere-command-r-plus-08-2024
+- deepseek/DeepSeek-R1
+- deepseek/DeepSeek-V3-0324
+- meta/Llama-4-Maverick-17B-128E-Instruct-FP8
+- meta/Llama-4-Scout-17B-16E-Instruct
+- mistral-ai/mistral-medium-2505
+- openai/gpt-4.1-mini
+- openai/gpt-4.1-nano
+- openai/gpt-4.1
+- openai/gpt-4o-mini
+- openai/gpt-4o
+- openai/o4-mini
+- xai/grok-3
+- xai/grok-3-mini
